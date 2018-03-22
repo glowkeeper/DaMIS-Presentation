@@ -1,6 +1,6 @@
 # Blockchain Presentation
 
-[Blockchain Presentation](/presentation/blockchain.md) given at the [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/) and [2016 Smart Summit London](http://www.iotsmartsummitlondon.com/).
+[Blockchain Presentation](/presentation/DaMIS16.md) given at the [EUSPN 2016, DaMIS Workshop](http://143.225.211.50/damis/) and [2016 Smart Summit London](http://www.iotsmartsummitlondon.com/).
 
 There are instructions for building the presentation [here](/presentation/README.md).
 
